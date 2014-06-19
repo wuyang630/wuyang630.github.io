@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FiveSheep</title>
+    <description>My Site Thanks for Github &amp; Jekyll</description>
+    <link>http://wuyang630.github.io/</link>
+    <atom:link href="http://wuyang630.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Welcome to Wuyang!</title>
+        <description>&lt;p&gt;我的笔记本好卡……&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Jun 2014 19:25:15 +0800</pubDate>
+        <link>http://wuyang630.github.io/personal/2014/06/19/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://wuyang630.github.io/personal/2014/06/19/welcome-to-jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Spark resources</title>
+        <description>&lt;p&gt;基本概念 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3664933.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（一）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Job的提交与运行 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3673123.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（二）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Task运行期之函数调用关系分析 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3673132.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（三）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DStream实时流数据处理 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3673142.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（四）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DStream处理的容错性分析 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3673139.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（五）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;存储子系统分析 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3673138.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（六）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Standalone部署方式分析 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3673147.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（七）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Spark on Yarn &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3728713.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（八）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Spark源码编译 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3732492.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（九）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;在YARN上运行SparkPi &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3737216.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（十）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;sql的解析与执行 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3752917.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（十一）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hive on Spark运行环境搭建 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3758922.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（十二）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;hiveql on spark实现详解 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3765207.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（十三）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Graphx实现剖析 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3777494.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（十四）&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Standalone部署模式下的容错性分析 &lt;a href=&quot;http://www.cnblogs.com/hseagle/p/3791779.html&quot;&gt;许鹏: 从零开始学习，Apache Spark源码走读（十五）&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 19 Jun 2014 19:25:15 +0800</pubDate>
+        <link>http://wuyang630.github.io/personal/2014/06/19/spark%20resources/</link>
+        <guid isPermaLink="true">http://wuyang630.github.io/personal/2014/06/19/spark%20resources/</guid>
+      </item>
+    
+  </channel>
+</rss>
